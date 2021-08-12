@@ -1,0 +1,5 @@
+{
+    "token": "YOUR BOT TOKEN",
+    "prefix": "!",
+    "mongooseConnectionString": "YOUR MONGODB CONNECTION STRING"
+}
